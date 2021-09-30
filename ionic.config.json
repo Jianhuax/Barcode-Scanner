@@ -1,0 +1,7 @@
+{
+  "name": "parlevel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
